@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/groovy-2.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/groovy-json-2.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/groovy-xml-2.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/json-path-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/rest-assured-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/rest-assured-common-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/RestAPIjar/xml-path-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/Chromedriver75/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/Chromedriver75/testng-6.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Public/Automation/JDBCjars/ojdbc6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

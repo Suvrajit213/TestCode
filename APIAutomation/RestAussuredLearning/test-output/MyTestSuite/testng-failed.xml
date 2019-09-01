@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MyTestSuite]" allow-return-values="true">
+  <test name="Mytests(failed)">
+    <parameter name="SelectEnv" value="T34"/>
+    <groups>
+      <run>
+        <include name="Tokengeneration"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="cRMAPIpckg.Tokengeneration">
+        <methods>
+          <include name="TokenGen" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- cRMAPIpckg.Tokengeneration -->
+    </classes>
+  </test> <!-- Mytests(failed) -->
+</suite> <!-- Failed suite [MyTestSuite] -->
