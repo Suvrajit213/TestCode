@@ -66,7 +66,7 @@ public class Tokengeneration {
 		input = new FileInputStream("config.properties");
         prop.load(input);
         String[] strArray3 = new String[3];
-		strArray3[0] = "UAT2";
+		strArray3[0] = "UAT2";//Env select
 		strArray3[1] = "T34";
 		strArray3[2] = "T11";
 
