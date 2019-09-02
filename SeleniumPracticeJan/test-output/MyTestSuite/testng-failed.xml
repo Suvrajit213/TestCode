@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [MyTestSuite]" allow-return-values="true">
+  <test name="Mytests(failed)">
+    <classes>
+      <class name="TestNGFeature.CreateXml">
+        <methods>
+          <include name="getNumericString" invocation-numbers="0 1"/>
+          <include name="getAlphaNumericString" invocation-numbers="0 1"/>
+          <include name="getRandomNumberInRange" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- TestNGFeature.CreateXml -->
+    </classes>
+  </test> <!-- Mytests(failed) -->
+</suite> <!-- Failed suite [MyTestSuite] -->
