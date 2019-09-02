@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite" allow-return-values="true">
+<test name="Mytests">
+<parameter name="SelectEnv" value="${SelectEnv}" />
+  <groups>
+       <run>
+        <include name="BillingNotification"/>
+        </run>
+  </groups>
+<classes>
+  <class name="cRMAPIpckg.BillingNotification" > </class>
+</classes>
+</test>
+</suite>
